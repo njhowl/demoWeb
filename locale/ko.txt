@@ -5,14 +5,12 @@
 ### Description
 
 ### Title
-tour.name = Untitled 2
+tour.name = 메인(수정필요)
 
 ## Skin
 
 ### Label
 Label_3680C0FD_0744_7DF3_416E_041028A22682.text = 한옥마을 내부
-Label_5C470BAE_1AED_549F_419A_E0B75ACC3560.text = Skip
-Label_CF7EF87F_E26B_03F9_41E0_F5D182235D16.text = 돌아가기
 Label_ED26D2A5_DF3E_7C1E_419A_26D840DC804C.text = 한옥마을 내부
 
 ### Tooltip
@@ -28,15 +26,10 @@ IconButton_34F3B9DB_02F7_9E7B_413D_0372EC651F1E.toolTip = Fullscreen
 ## Media
 
 ### Title
-album_F9066FD6_CF6A_C3E0_41E6_A55044105CFF.label = Photo Album 오목대 소개 사진 예시
-album_F9066FD6_CF6A_C3E0_41E6_A55044105CFF_0.label = 오목대 소개 사진 예시
 map_FD8D5D1B_CFAF_C467_41DF_4DF7193D2B39.label = 오목대 소개 사진 예시
 map_FF791EAB_DD26_646A_41DC_FCB68549B554.label = map_img4
-panorama_69DF3328_2053_858D_41AA_A77625E4C566.label = 성당 내부
 panorama_B4B98047_BE57_C3B3_41E2_D98D114310EC.label = 한옥내부(1)
 panorama_B78756C9_BE57_CCBF_41BE_33363D8F2C4E.label = 한옥외부(2)
-panorama_B7983A6C_BE56_C475_41E4_370A31FE769F.label = 한옥 거리(1)
-panorama_B798903A_BE56_43DD_41E5_519A100385FA.label = 한옥 거리(2)
 panorama_B7992449_BE56_43BF_41E6_F565FD90C922.label = 상점가(1)
 panorama_B79940A2_BE56_44ED_41C4_1AE2A359A228.label = 상점가(2)
 panorama_B799445A_BE56_CC5D_41C2_198EA3BA2E21.label = 큰길(3)
@@ -45,23 +38,16 @@ panorama_B79951C8_BE56_C4BD_41D0_B20F63CFB7A2.label = 큰길(1)
 panorama_B7995DA3_BE56_7CF3_41D0_F63AC22A64F8.label = 골목길(2)
 panorama_B7996896_BE56_C4D5_41DE_F4CE81794755.label = 큰길(2)
 panorama_B7997B29_BE56_45FF_41CD_F0135A154CC0.label = 오목대(1)
-panorama_B79AE6BA_BE56_4CDD_41D4_C544FB491D7D.label = 교회외부(2)
-panorama_B79AEC8A_BE56_3CBD_41D2_21E86AC83B0D.label = 교회건물(1)
 panorama_CDA75073_DCFA_1CFA_41E2_F9139CB049F5.label = 골목길(3)
-panorama_D60A7600_CDAB_4460_41BB_7364BE862500.label = 한옥 거리(3)
-photo_036658DF_2A29_65BF_41C3_B3BF6795B1A2.label = 전주 전동성당
-photo_036658DF_2A29_65BF_41C3_B3BF6795B1A2.label = 전주 전동성당
 photo_F33D0AF2_CEA5_4DA1_41E1_8C0D378BF1F0.label = 오목대 소개 사진 예시
 video_A2A9A458_BEA9_CC5D_41C3_CA2A7C4138C7.label = 오목대
-video_B6E861FE_E229_04FB_41BD_7682F5C70B77.label = 전주한옥마을_가상현실
 
 ## Popup
 
 ### Body
-htmlText_0C749FF0_2A26_FB81_4159_7A3417F6DF10.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>1907년부터 1914년에 걸쳐 세워진 전동성당은 순교지를 보존하고 있는 신앙의 요람이다. 처형지인 풍남문 성벽을 헐어 낸 돌로 성당 주춧돌을 세웠다고 한다. 곡선미를 최대로 살린 호남최초의 로마네스크 양식과 비잔틴 양식의 아름다움, 웅장함이 동양에서 제일가는 성당건물 중의 하나이다.</B></SPAN></DIV></BODY></HTML></div>
 htmlText_F373ED8C_CEA5_C460_41D7_B04B8AAC07DC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>오목대(梧木臺)는 1380년(고려 우왕 6년)에 이성계가 운봉 황산에서 왜군을 무찌르고 돌아가던 중 자신의 고조부인 목조가 살았던 이 곳에 들러 승전을 자축한 곳이다. 1974년 9월 24일 전라북도의 기념물 제16호로 지정되었다.</B></SPAN></DIV></BODY></HTML></div>
 
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_1F4DF77D_2A19_2C80_41C4_34E429A569BA.url = http://www.jeonjuhanokroom.kr/
+LinkBehaviour_2B77DD43_3ED8_81FF_41C0_FF44092C4702.source = http://localhost:82/
